@@ -1,0 +1,1 @@
+docker build -t bde2020/hive:3.1.2-postgresql-metastore ./
